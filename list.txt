@@ -1,0 +1,5 @@
+eggs,
+Milk,
+Bread,
+Apples,
+Bananas
