@@ -1,2 +1,2 @@
 Line 1
-Line 2modified fileA.txt
+Line 2
